@@ -13,10 +13,10 @@
 		<form method="post" action="<?php echo $_SERVER['PHP_SELF']; ?>">
 			<h1>登录</h1>
 			<div>
-				<input type="text" placeholder="用户名" required="" id="name" name="name"/>
+				<input type="text" placeholder="用户名：website" required="" id="name" name="name"/>
 			</div>
 			<div>
-				<input type="password" placeholder="密码" required="" id="password" name="password"/>
+				<input type="password" placeholder="密码:123456" required="" id="password" name="password"/>
 			</div>
 			<div>
 				<input type="submit"  name="submit" value="确认" />
@@ -24,7 +24,7 @@
 				<a href="signup.php">注册</a>
 			</div>
 		</form><!-- form -->
-		
+	
 
 <?PHP
      if (isset($_POST['submit'])) {
@@ -72,5 +72,6 @@
 
 	</section><!-- content -->
 </div><!-- container -->
+<p>【tips:点击黑色区域退出弹窗】</p>
 </body>
 </html>

@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
     <head>
-        <meta charset="UTF-8">
+        <meta charset="utf8">
         <title>用户注册页面</title>
     </head>
     <body>
@@ -11,7 +11,7 @@
             <p><input type="submit" name="submit" value="注册"></p>
         </form>
 <?php 
-    header("Content-Type: text/html; charset=utf8");
+//    header("Content-Type: text/html; charset=utf8");
 
     if (isset($_POST['submit'])) {
     $name=$_POST['name'];//post获取表单里的name
