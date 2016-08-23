@@ -11,7 +11,6 @@
             <p><input type="submit" name="submit" value="注册"></p>
         </form>
 <?php 
-//    header("Content-Type: text/html; charset=utf8");
 
     if (isset($_POST['submit'])) {
     $name=$_POST['name'];//post获取表单里的name

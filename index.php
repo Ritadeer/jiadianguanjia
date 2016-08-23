@@ -77,8 +77,8 @@
 
 		<div class="fluid-container" id="home">
 	                <div class="space"></div>
-				    <div class="space"></div>
-				    <div class="space"></div>
+				    <div class="space1"></div>
+				    <div class="space1"></div>
 			<div class="row">
             <!-- <div class="col-md-4 text-center">
 					<img src="img/portfolio/5.jpg" class="img-responsive animated fadeInLeft" alt="Time is happiness">
@@ -87,21 +87,21 @@
 					<img src="img/portfolio/9.jpg" class="img-responsive animated fadeInLeft" alt="Time is happiness">
 				</div>
 				<div class="col-md-8  welcome-section">
-                	 <div class="space"></div>
+                	 <div class="space1"></div>
 					<h2 class="title"><strong>家电管家</strong></h2>
 					
-					    <div class="space"></div>
+					    <div class="space1"></div>
 				 <p class="intro">随着人们对家电安全性、便利性、舒适性、艺术性等居住环境要求的提高，及物联网技术的发展，智能家电是必然趋势。而随着智能终端越来越普及，它给带来的人机交互感也彻底颠覆了传统的概念。人们对于智能和人机交互的控制感觉有了更深的体验，对于智能的追求又到了一个新的纪元。</p>
-				<div class="space"></div>
-				<div class="space"></div>
-				 <p class="intro">因此，为了适应现代人快节奏的生活方式，对家电随时随地进行远程管理成为了诉求，“家电管家”正是在此基础上，针对人们可能遇到的问题设计了相应的功能，用户可以对家里电器进行集中、遥控、定时、远程控制，解决了一些生活中因疏忽出现的家居问题。
+				<div class="space1"></div>
+				<div class="space1"></div>
+				 <p class="intro1">因此，为了适应现代人快节奏的生活方式，对家电随时随地进行远程管理成为了诉求，“家电管家”正是在此基础上，针对人们可能遇到的问题设计了相应的功能，用户可以对家里电器进行集中、遥控、定时、远程控制，解决了一些生活中因疏忽出现的家居问题。
    </p>
                     
 					
 				</div>
 
 				</div>	
-                   <div class="space"></div>
+                   <div class="space1"></div>
 
 	</div>
 <!-- </div> -->

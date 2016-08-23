@@ -6,11 +6,12 @@
 
  $db_username="jiadianguanjia";//你的数据库用户名
    $db_password="123456";//你的数据库密码
-    $con = mysql_connect("yxaacegermkd.rds.sae.sina.com.cn:10618",$db_username,$db_password);//链接数据库
+  $con = mysql_connect("uszyduhgblad.rds.sae.sina.com.cn:10333",$db_username,$db_password);//链接数据库
+ //   $con = mysql_connect("yxaacegermkd.rds.sae.sina.com.cn:10618",$db_username,$db_password);//链接数据库
     if(!$con){
         die("can't connect".mysql_error());//如果链接失败输出错误
     }
     
-    mysql_select_db('website',$con);//选择数据库（我的是test）
+    mysql_select_db('website',$con);//选择数据库（website）
 ?>
 

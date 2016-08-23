@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="zh-cn"> <!--<![endif]-->
 <head>
-<meta charset="utf-8">
+<meta charset="utf8">
 <title>登录</title>
 <link rel="stylesheet"  href="css/login-style.css" />
 </head>
@@ -13,7 +13,7 @@
 		<form method="post" action="<?php echo $_SERVER['PHP_SELF']; ?>">
 			<h1>登录</h1>
 			<div>
-				<input type="text" placeholder="用户名：website" required="" id="name" name="name"/>
+				<input type="text" placeholder="用户名:website" required="" id="name" name="name"/>
 			</div>
 			<div>
 				<input type="password" placeholder="密码:123456" required="" id="password" name="password"/>
